@@ -1,6 +1,6 @@
 # 👨‍💻 Raipb
 
-Me chamo Raí Pereira Batista, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando ADS - Análise e Desenvolvimento de Sistemas no IFNMG - Instituto Federal do Norte de Minas Gerais Campus Almenara. Gosto muito de tecnologia e estou gostando muito do curso que estou fazendo.
+Me chamo Raí Pereira Batista, tenho 21 anos e sou natural de Minas Gerais. Atualmente, estou cursando ADS - Análise e Desenvolvimento de Sistemas no IFNMG - Instituto Federal do Norte de Minas Gerais Campus Almenara. Gosto muito de tecnologia e estou gostando muito do curso que estou fazendo.
 
 ---
 
